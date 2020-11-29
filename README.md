@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently learning on **HUST**
 
-- 🌱 I’m currently learning **Django,QT**
-
 - 📝 I regulary write articles on [https://finne.top](https://finne.top)
 
 - 📫 How to reach me **hust.hurui@gmail.com**

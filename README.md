@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm finne</h1>
 <h3 align="center">A newleaner</h3>
 
-- 🔭 I’m currently learning on **[HUST](https://www.hust.edu.cn/)**
+- 🔭 I’m currently studying at **[HUST](https://www.hust.edu.cn/)**
 
 - 📝 I regulary write articles on [https://finne.top](https://finne.top)
 

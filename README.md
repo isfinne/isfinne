@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **[HUST](https://www.hust.edu.cn/)**
 
-- 📝 I regulary write articles on [https://finne.top](https://finne.top)
+- 📝 I regulary write articles on [https://blog.finne.top](https://blog.finne.top)
 
 - 📫 How to reach me **hust.hurui@gmail.com**
 

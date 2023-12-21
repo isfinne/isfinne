@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm finne</h1>
 
-- 🔭 I’m currently studying at **[HUST](https://www.hust.edu.cn/)**
 
 - 📫 How to reach me **hust.hurui@gmail.com**
 

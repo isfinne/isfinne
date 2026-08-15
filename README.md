@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!-- gitarmy-wallet:v1 {"chain":"solana","address":"2ddAQoEFEq8xpiw7241xBVci1M5DWZGQgd7X3UfTxE5v"} -->
+
 <!--
 **isfinne/isfinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
